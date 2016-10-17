@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IPZ_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">SUA</string>
+    <string name="textView1">Button was pressed</string>
+    <string name="button">Натисни мене</string>
+</resources>
